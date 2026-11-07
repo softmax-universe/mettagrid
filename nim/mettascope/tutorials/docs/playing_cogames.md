@@ -25,7 +25,7 @@ Press **G** or **F10** to switch between them.
 
 | Mode | Command |
 |------|---------|
-| **Web demo** | [metta-ai.github.io/metta/mettascope](https://metta-ai.github.io/metta/mettascope/mettascope.html) |
+| **Web demo** | [Mettascope](https://softmax-universe.github.io/softmax/mettascope/mettascope.html) |
 | **Play** (live) | `uv run cogames play --mission machina_1 --cogs 4` |
 | **Play** (with AI policy) | `uv run cogames play -m machina_1 -p class=nlanky` |
 | **Replay** | `uv run cogames replay ./path/to/replay.json.z` |

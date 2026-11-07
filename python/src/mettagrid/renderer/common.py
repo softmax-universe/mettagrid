@@ -1,1 +1,3 @@
-METTASCOPE_REPLAY_URL_PREFIX = "https://metta-ai.github.io/metta/mettascope/mettascope.html?replay="
+METTASCOPE_REPLAY_URL_PREFIX = (
+    "https://softmax-universe.github.io/softmax/mettascope/mettascope.html?replay="
+)

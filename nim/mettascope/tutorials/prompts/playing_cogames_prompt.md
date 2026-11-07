@@ -28,7 +28,7 @@ Use your judgement on which files matter. The game changes frequently so don't a
 
 1. **What is Mettascope** — brief intro, what you're looking at when you open it
 2. **Getting Started** — how to launch. Show these exact commands:
-   - Web demo: `https://metta-ai.github.io/metta/mettascope/mettascope.html`
+   - Web demo: `https://softmax-universe.github.io/softmax/mettascope/mettascope.html`
    - Play mode: `uv run cogames play --mission machina_1 --cogs 4`
    - Play mode with AI policy: `uv run cogames play -m machina_1 -p class=nlanky`
    - Replay mode: `uv run cogames replay ./path/to/replay.json.z`
